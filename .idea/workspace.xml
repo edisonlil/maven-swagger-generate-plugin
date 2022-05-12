@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c40681c0-dc0d-44b1-a28c-1093017c4762" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28yP8IZNOqGb9CtMY0WWZCr7Mgk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.edisonlil.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodDelegate">
+    <configuration name="FileIterable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.edisonlil.utils.FileIterable" />
+      <module name="maven-swagger-generate-plugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.edisonlil.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaDocDelegate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.edisonlil.delegate.JavaDocDelegate" />
+      <module name="maven-swagger-generate-plugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.edisonlil.delegate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodDelegate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.edisonlil.delegate.MethodDelegate" />
+      <module name="maven-swagger-generate-plugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.edisonlil.delegate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterDelegate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.edisonlil.delegate.ParameterDelegate" />
+      <module name="maven-swagger-generate-plugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.edisonlil.delegate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.edisonlil.utils.TaskExecutor" />
+      <module name="maven-swagger-generate-plugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.edisonlil.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodDelegate" />
+        <item itemvalue="Application.JavaDocDelegate" />
+        <item itemvalue="Application.ParameterDelegate" />
+        <item itemvalue="Application.TaskExecutor" />
+        <item itemvalue="Application.FileIterable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c40681c0-dc0d-44b1-a28c-1093017c4762" name="Default Changelist" comment="" />
+      <created>1652185691345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652185691345</updated>
+      <workItem from="1652185694147" duration="35134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="168" key="#Project_Structure" timestamp="1652248184246">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="446" y="168" key="#Project_Structure/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652248184246" />
+    <state x="3548" y="299" key="#com.intellij.ide.util.MemberChooser" timestamp="1652255577724">
+      <screen x="2560" y="0" width="2560" height="1392" />
+    </state>
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652253888415" />
+    <state x="3548" y="299" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019/2560.0.2560.1392@2560.0.2560.1392" timestamp="1652255577724" />
+    <state x="513" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1652342507267">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="513" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652342507267" />
+    <state width="1662" height="268" key="GridCell.Tab.0.bottom" timestamp="1652347112533">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="268" key="GridCell.Tab.0.bottom/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347112533" />
+    <state width="2516" height="503" key="GridCell.Tab.0.bottom/0.0.1707.1019/2560.0.2560.1392@2560.0.2560.1392" timestamp="1652266579017" />
+    <state width="1662" height="268" key="GridCell.Tab.0.center" timestamp="1652347112533">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="268" key="GridCell.Tab.0.center/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347112533" />
+    <state width="2516" height="503" key="GridCell.Tab.0.center/0.0.1707.1019/2560.0.2560.1392@2560.0.2560.1392" timestamp="1652266579016" />
+    <state width="1662" height="268" key="GridCell.Tab.0.left" timestamp="1652347112532">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="268" key="GridCell.Tab.0.left/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347112532" />
+    <state width="2516" height="503" key="GridCell.Tab.0.left/0.0.1707.1019/2560.0.2560.1392@2560.0.2560.1392" timestamp="1652266579016" />
+    <state width="1662" height="268" key="GridCell.Tab.0.right" timestamp="1652347112533">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="268" key="GridCell.Tab.0.right/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347112533" />
+    <state width="2516" height="503" key="GridCell.Tab.0.right/0.0.1707.1019/2560.0.2560.1392@2560.0.2560.1392" timestamp="1652266579017" />
+    <state width="1662" height="293" key="GridCell.Tab.1.bottom" timestamp="1652252803606">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="293" key="GridCell.Tab.1.bottom/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652252803606" />
+    <state width="1662" height="293" key="GridCell.Tab.1.center" timestamp="1652252803606">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="293" key="GridCell.Tab.1.center/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652252803606" />
+    <state width="1662" height="293" key="GridCell.Tab.1.left" timestamp="1652252803606">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="293" key="GridCell.Tab.1.left/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652252803606" />
+    <state width="1662" height="293" key="GridCell.Tab.1.right" timestamp="1652252803606">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1662" height="293" key="GridCell.Tab.1.right/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652252803606" />
+    <state x="334" y="84" key="SettingsEditor" timestamp="1652187178727">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="334" y="84" key="SettingsEditor/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652187178727" />
+    <state x="446" y="243" key="Vcs.Push.Dialog.v2" timestamp="1652347165977">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="446" y="243" key="Vcs.Push.Dialog.v2/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347165977" />
+    <state x="241" y="211" key="new project wizard" timestamp="1652253978039">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="241" y="211" key="new project wizard/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652253978039" />
+    <state x="3496" y="328" key="run.anything.popup" timestamp="1652258859881">
+      <screen x="2560" y="0" width="2560" height="1392" />
+    </state>
+    <state x="3496" y="328" key="run.anything.popup/0.0.1707.1019/2560.0.2560.1392@2560.0.2560.1392" timestamp="1652258859881" />
+    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1652345387987">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652345387987" />
+    <state x="3334" y="301" width="1008" height="927" key="search.everywhere.popup/0.0.1707.1019/2560.0.2560.1392@2560.0.2560.1392" timestamp="1652255251172" />
+  </component>
+</project>
