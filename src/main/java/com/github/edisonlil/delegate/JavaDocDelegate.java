@@ -53,13 +53,4 @@ public class JavaDocDelegate {
         }).collect(Collectors.toList());
     }
 
-    public static void main(String[] args) {
-
-        String str = "1234\n131";
-
-        System.out.println(str.replace("\n","\"+\""));
-
-
-
-    }
 }
