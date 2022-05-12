@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c40681c0-dc0d-44b1-a28c-1093017c4762" name="Default Changelist" comment="" />
+    <list default="true" id="c40681c0-dc0d-44b1-a28c-1093017c4762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="28yP8IZNOqGb9CtMY0WWZCr7Mgk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -147,12 +151,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652185691345</updated>
-      <workItem from="1652185694147" duration="35134000" />
+      <workItem from="1652185694147" duration="36122000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1652347179874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652347179874</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1652347210661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652347210661</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="168" key="#Project_Structure" timestamp="1652248184246">
@@ -168,10 +191,10 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="513" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652342507267" />
-    <state x="380" y="103" key="CommitChangelistDialog2" timestamp="1652347178916">
+    <state x="380" y="103" key="CommitChangelistDialog2" timestamp="1652347209879">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="380" y="103" key="CommitChangelistDialog2/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347178916" />
+    <state x="380" y="103" key="CommitChangelistDialog2/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347209879" />
     <state width="1662" height="268" key="GridCell.Tab.0.bottom" timestamp="1652347112533">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -212,10 +235,10 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="334" y="84" key="SettingsEditor/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652187178727" />
-    <state x="446" y="243" key="Vcs.Push.Dialog.v2" timestamp="1652347190325">
+    <state x="446" y="243" key="Vcs.Push.Dialog.v2" timestamp="1652347805528">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="446" y="243" key="Vcs.Push.Dialog.v2/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347190325" />
+    <state x="446" y="243" key="Vcs.Push.Dialog.v2/0.0.1707.1019/2560.0.2560.1392@0.0.1707.1019" timestamp="1652347805528" />
     <state x="241" y="211" key="new project wizard" timestamp="1652253978039">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
