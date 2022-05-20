@@ -1,5 +1,9 @@
 # maven-swagger-generate-plugin
 
+### 作者：edison
+### 邮箱：edisonlil@163.com
+
+
 自动生成swagger注解插件
 
 ## 安装
