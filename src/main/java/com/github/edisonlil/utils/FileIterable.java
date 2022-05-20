@@ -18,16 +18,6 @@ public class FileIterable implements Iterable<File>{
 
     File root;
 
-    public static void main(String[] args) {
-
-        new FileIterable(new File("C:\\Users\\edsio\\Documents\\武汉公司资料")).forEach(file -> {
-
-            System.out.println(file.getPath());
-        });
-
-
-    }
-
     public FileIterable(File file){
         root = file;
     }
